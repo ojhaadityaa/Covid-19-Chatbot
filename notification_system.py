@@ -7,7 +7,7 @@ def notifyMe(title, message):
     notification.notify(
         title = title,
         message = message,
-        app_icon = "D:\MyData\Business\code playground\covidNotify\icon.ico",
+        app_icon = "C:\\Users\\Aditya Ojha\\Desktop\\Reasearch Project\\SolutionToVirus\\icon.ico",
         timeout = 6
     )
 
@@ -19,7 +19,7 @@ def getData(url):
 
 if __name__ == "__main__":
     while True:
-        # notifyMe("Harry", "Lets stop the spread of this virus together")
+        # notifyMe("Aditya", "Lets stop the spread of this virus together")
         myHtmlData = getData('https://www.mohfw.gov.in/')
 
         soup = BeautifulSoup(myHtmlData, 'html.parser')
