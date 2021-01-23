@@ -1,6 +1,8 @@
                     2021 International Conference on Computing, Communication, and Intelligent Systems (ICCCIS)
           ------------------------------------------------------------------------------------------------------------------
-                Developing A User Friendly Chatbot To Resolve Concerns Regarding The “Novel Corona Virus” Or “COVID-19”
+              European, Asian, Middle Eastern, North African Conference on Management & Information Systems (EAMMIS)
+          ------------------------------------------------------------------------------------------------------------------               
+              Developing A User Friendly Chatbot To Resolve Concerns Regarding The “Novel Corona Virus” Or “COVID-19”
 
 
 As we all know the 'Novel Corona Virus' or 'COVID-19' continues to affect a humongous number of people. It has been declared as an ongoing pandemic as of 12th June 2020and has infected more than 23.15 million lives in the world with its highly dynamic and rapidly evolving situation.
